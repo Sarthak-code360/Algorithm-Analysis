@@ -53,12 +53,12 @@ In this repo I had added many programs whose basic concept are nessary to learn 
    		
 		Time Complexity -> O (E log V)
 					where 'E' is Edge
-                                              'V' is Vertex
+                                             'V' is Vertex
  
 7. Dijkstra's Algorithm:
 
 		Time Complexity -> O (E log V)
 					where 'E' is Edge
-                                              'V' is Vertex
+                                             'V' is Vertex
 
 
